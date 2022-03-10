@@ -1,0 +1,13 @@
+.space{
+
+    height: 60px;
+    border-color: rgb(99, 10, 37);
+}
+
+.clr{
+    color:rgb(78, 17, 30);
+}
+
+.active{
+    background-color: rgb(58, 13, 13);
+}

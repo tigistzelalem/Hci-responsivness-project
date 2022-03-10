@@ -1,0 +1,309 @@
+/* JOOMLA STYLE
+--------------------------------------------------------- */
+#s5_bodygradientnoin .item-page h2 a, #s5_bodygradientnoin .item-page h2 {
+	color: #454545;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: normal;
+    text-shadow: 1px 1px #FFFFFF;}
+
+
+#s5_bodygradientnoin ul.actions {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    width: 100%;
+}
+#s5_bodygradientnoin ul.actions li {
+    display: inline;
+}
+#s5_bodygradientnoin ul.actions a {
+    text-decoration: none;
+}
+#s5_bodygradientnoin .items-more {
+    padding-top: 10px;
+}
+#s5_bodygradientnoin .items-more h3 {
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0;
+    padding: 5px;
+}
+#s5_bodygradientnoin .items-more ol {
+    line-height: 1.3em;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0 10px 2px;
+}
+#s5_bodygradientnoin .items-more ol li {
+    padding: 2px;
+}
+#s5_bodygradientnoin .items-more ol li a {
+    display: inline;
+    font-weight: normal;
+    margin: 0;
+    padding: 5px 5px 5px 20px;
+}
+#s5_bodygradientnoin .items-more ol li a:hover, #s5_bodygradientnoin .items-more ol li a:active, #s5_bodygradientnoin .items-more ol li a:focus {
+    font-weight: normal;
+    padding: 5px 5px 5px 20px;
+    text-decoration: none;
+}
+#s5_bodygradientnoin .pagination {
+    margin: 10px 0;
+    padding: 10px 0 10px 0;
+}
+#s5_bodygradientnoin .pagination ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+#s5_bodygradientnoin .pagination li {
+    border: 0 solid #EEEEEE;
+    display: inline;
+    margin: 0 2px;
+    padding: 2px 5px;
+    text-align: left;
+}
+#s5_bodygradientnoin .pagenav {
+    padding: 2px;
+}
+#s5_bodygradientnoin .pagination li.pagination-start, #s5_bodygradientnoin .pagination li.pagination-next, #s5_bodygradientnoin .pagination li.pagination-end, #s5_bodygradientnoin .pagination li.pagination-prev {
+    border: 0 none;
+}
+#s5_bodygradientnoin .pagination li.pagination-start, #s5_bodygradientnoin .pagination li.pagination-start span {
+    padding: 0;
+}
+#s5_bodygradientnoin ul.pagenav li {
+    line-height: 2em;
+}
+#s5_bodygradientnoin ul.pagenav li a {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #CCCCCC;
+    display: inline;
+    padding: 6px;
+    text-decoration: none;
+}
+#s5_bodygradientnoin ul.pagenav li.pagenav-prev {
+    float: left;
+	list-style: none outside none;
+}
+#s5_bodygradientnoin ul.pagenav li.pagenav-next {
+    float: right;
+	list-style: none outside none;
+}
+
+#s5_bodygradientnoin ul.pagenav {
+	margin-left:0px;}
+
+#s5_bodygradientnoin .article-info-term {
+    display: none;
+}
+
+dd.createdby {
+   color: #999999;
+    font-size: 11px;
+    font-style: italic;
+    text-shadow: 1px 1px #FFFFFF;}
+	
+dl.article-info dd {
+margin-left:0px;
+margin-bottom:8px;}
+
+.items-row
+{
+        overflow:hidden;
+        margin-bottom:10px !important;
+}
+
+.blog-more
+{
+        padding:10px 5px
+}
+
+ul.actions i {
+
+	display:none;
+
+	}
+
+
+
+	div.login, div.registration {
+
+	padding-bottom:10px;
+
+	margin-bottom:20px;
+
+	}
+
+
+
+	ul {
+
+	margin-left:18px;
+
+	}
+
+
+
+	.module_round_box_outer ul, .moduletable ul, #s5_nav {
+
+	margin:0px;
+
+	}
+
+
+
+	/* tooltips */
+
+	.tip-wrap { z-index:1000003; }
+
+	.tip-wrap .tip { background:#fff; padding:5px; border:1px solid #eee; max-width: 300px; }
+
+	.tip-wrap .tip-title {  background: none repeat scroll 0 0 #101010;    color: #FFFFFF;    font-size: 1.0em;    margin-bottom: 4px;    padding: 5px 8px 5px;    text-shadow: 0 1px 0 #000000;}
+
+	.tip-wrap.tip-text { padding: 3px; font-size: 11px; line-height: 16px; }	
+
+	/* ++++++++++++++  Joomla 3.0+ com_content  ++++++++++++++ */
+
+
+
+
+
+	ul.actions li {
+
+	float:none;
+
+	padding:0px;
+
+	}
+
+
+
+	.item-page .dropdown-toggle, .blog .dropdown-toggle, .item .dropdown-toggle {
+
+	background:#FFFFFF;
+
+	margin-top:-20px;
+
+	}
+
+
+
+	.article-info span {
+
+	display:none;
+
+	}
+
+
+
+	.page-header {
+
+	border:none;
+
+	margin:0px;
+
+	padding:0px;
+
+	margin-bottom:10px;
+
+	}
+
+
+
+	.item, .items-leading {
+
+	margin-bottom:26px !important;
+
+	}
+
+
+
+	p.readmore a.btn {
+
+	display: inline-block;
+
+	padding: 0px;
+
+	margin:0px;
+
+	font-size: inherit;
+
+	line-height: inherit;
+
+	*line-height: inherit;
+
+	text-align: left;
+
+	vertical-align: auto;
+
+	cursor: pointer;
+
+	color: inherit;
+
+	text-shadow: none;
+
+	background:none;
+
+	filter: none;
+
+	border: none;
+
+	-webkit-box-shadow: none;
+
+	-moz-box-shadow: none;
+
+	box-shadow: none;
+
+	text-transform:none;
+
+	}
+
+	 
+
+	p.readmore a.btn span {
+
+	display:none;
+
+	}
+
+
+
+
+
+
+
+	/* ++++++++++++++  Joomla 3.0+ breadcrumb  ++++++++++++++ */
+
+
+
+	.moduletable .breadcrumb, .module_round_box_outer .breadcrumb {
+
+	padding:0px;
+
+	background:none;
+
+	-webkit-box-shadow: none;
+
+	-moz-box-shadow: none;
+
+	box-shadow: none;
+
+	}
+
+	
+
+	#s5_breadcrumb_wrap .active {
+
+	display:none;
+
+	}
+
+
+	
+/* END JOOMLA STYLE
+--------------------------------------------------------- */	
+		
